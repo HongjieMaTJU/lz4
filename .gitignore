@@ -41,3 +41,5 @@ ld.exe*
 # test artifacts
 *.lz4
 tmp*
+
+Debug/
